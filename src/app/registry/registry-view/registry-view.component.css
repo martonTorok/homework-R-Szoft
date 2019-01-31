@@ -1,0 +1,10 @@
+.registry-table {
+  display: block;
+	float:left;
+  margin: 1% 0 1% 5%;
+  width: 50%;
+}
+
+.full-width-table{
+  width: 100%;
+}

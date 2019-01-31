@@ -1,0 +1,9 @@
+.form-container {
+    display: block;
+	float:left;
+	margin: 1% 0 1% 5%;
+}
+
+mat-form-field, input, mat-error {
+    width: 100%
+}

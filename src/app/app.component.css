@@ -1,0 +1,19 @@
+.container {
+    clear: both;
+	padding: 0px;
+    overflow: hidden;
+}
+
+.group:before, .group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+    /* For IE 6/7 */
+}
